@@ -1,6 +1,6 @@
 # Elizabeth Nails and Beauty Salon
 
-Demo website concept for **Elizabeth Nails and Beauty Salon** — Melbourne, Australia.
+Demo website concept for **Elizabeth Nails and Beauty Salon** — Melbourne, VIC.
 
 Live preview: https://elizabeth-nails-melbourne-mockup.netlify.app
 
